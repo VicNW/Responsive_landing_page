@@ -1,2 +1,2 @@
 # Responsive_landing_page
-Zuri Task
+This is a responsive Landing Page written using HTML and CSS.
